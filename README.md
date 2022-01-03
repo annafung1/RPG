@@ -17,8 +17,8 @@ Currently an ongoing project. Currently this rpg allows players to manage their 
 ![rpg5](https://user-images.githubusercontent.com/53986991/147904084-6a800460-f902-4de2-b606-7f0a58c4e2ac.PNG)
 
 ##  Future Features
-Add story/lore
-Implement more maps and monstesr
-Implement loot and equipment 
-Implement store and healing system
-Implement better graphics
+Add story/lore  
+Implement more maps and monsters  
+Implement loot and equipment   
+Implement store and healing system  
+Implement better graphics  
